@@ -154,9 +154,11 @@ List recent roadmaps.
 | `SNOWFLAKE_USER` | Snowflake username |
 | `SNOWFLAKE_PASSWORD` | Snowflake password |
 
-> **Note**: Without Snowflake credentials, the app uses mock health metrics. Without ElevenLabs, voice features are disabled.📄 License
+> **Note**: Without Snowflake credentials, the app uses mock health metrics. Without ElevenLabs, voice features are disabled.
 
-MIT License
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
