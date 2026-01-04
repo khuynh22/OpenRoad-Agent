@@ -2,6 +2,8 @@
 
 > Built for [MLH Hacks for Hackers](https://events.mlh.io/events/13143) - January 2026
 
+> Demo at: https://youtu.be/DrzWep6mUQI
+
 A **Hacker Onboarding Platform** that analyzes GitHub repositories and generates personalized contribution roadmaps using AI. Perfect for open source contributors looking for their next project.
 
 ## 🌟 Features
